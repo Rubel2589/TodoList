@@ -39,10 +39,11 @@ code {
   border: none;
   background-color: black;
   color: white;
-  font-size: 20px;
+  font-size: 28px;
   margin-left: 6px;
   border-radius: 3px;
   cursor: pointer;
+  border-radius: 30%;
 }
 .taskData{
   display: flex;
